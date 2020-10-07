@@ -924,7 +924,7 @@ func (x *blogServiceListBlogsClient) Recv() (*ListBlogResponse, error) {
 	return m, nil
 }
 
-// BlogServiceServer is the server API for BlogService service.
+// BlogServiceServer is the api API for BlogService service.
 type BlogServiceServer interface {
 	CreateBlog(context.Context, *CreateBlogReq) (*CreateBlogRes, error)
 	ReadBlog(context.Context, *ReadBlogReq) (*ReadBlogRes, error)

@@ -14,10 +14,10 @@ import (
 func Start(config *Config) (net.Listener,*grpc.Server,*mongo.Client){
 	db := NewDB(config.DatabaseURL)
 
-	log.Println("Start Listen our server")
+	log.Println("Start Listen our api")
 	listener, err := net.Listen("tcp",":"+config.BindAddr)
 	if err != nil{
-		log.Fatalf("Unable to listen server port: %v",err)
+		log.Fatalf("Unable to listen api port: %v",err)
 	}
 
 	// Опции в случае необходимости поддержки TLS

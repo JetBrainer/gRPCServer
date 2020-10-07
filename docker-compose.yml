@@ -1,0 +1,17 @@
+version: '3.1'
+
+services:
+#  db:
+#    mongo:
+#      image: 'mongo:latest'
+#      container_name: 'mongo'
+#      ports:
+#        - '27017:27017'
+  server:
+    build:
+      dockerfile: deployments/docker/api/Dockerfile
+      context: .
+    ports:
+      - "8080:8080"
+#    depends_on:
+#      - db

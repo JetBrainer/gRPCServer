@@ -1,0 +1,1 @@
+# Use golang migrate tool to migrate files
