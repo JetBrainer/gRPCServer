@@ -1,0 +1,9 @@
+build:
+  stage: build
+  dependencies:
+    - go get
+  image: docker:17
+  services:
+    - docker:dind
+  script:
+    - docker-compose up --build
