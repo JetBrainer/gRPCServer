@@ -26,7 +26,7 @@ clean:
 .PHONY: all
 ## Cleans binary file clears terminal and build/run project: all make file
 all:
-	cd cmd/apiserver && go build -o ../../bin/${BIN} && cd ../../ && ./bin/${BIN}
+	cd cmd/grpcserver && go build -o ../../bin/${BIN} && cd ../../ && ./bin/${BIN}
 
 .PHONY: linter
 ## golangci-linter: go linter
