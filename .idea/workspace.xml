@@ -38,7 +38,7 @@
       <recent name="$PROJECT_DIR$/internal/model" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestBlogServiceServer_DeleteBlog in github.com/JetBrainer/gRPCServer/internal/model">
+  <component name="RunManager" selected="Go Test.TestBlogServiceServer_ListBlogs in github.com/JetBrainer/gRPCServer/internal/model">
     <configuration name="TestBlogServiceServer_CreateBlog in github.com/JetBrainer/gRPCServer/internal/model" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="gRPCServer" />
       <working_directory value="$PROJECT_DIR$/internal/model" />
@@ -59,6 +59,17 @@
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <pattern value="^\QTestBlogServiceServer_DeleteBlog\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBlogServiceServer_ListBlogs in github.com/JetBrainer/gRPCServer/internal/model" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gRPCServer" />
+      <working_directory value="$PROJECT_DIR$/internal/model" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/JetBrainer/gRPCServer/internal/model" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestBlogServiceServer_ListBlogs\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestBlogServiceServer_ReadBlog in github.com/JetBrainer/gRPCServer/internal/model" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -85,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestBlogServiceServer_ListBlogs in github.com/JetBrainer/gRPCServer/internal/model" />
         <item itemvalue="Go Test.TestBlogServiceServer_DeleteBlog in github.com/JetBrainer/gRPCServer/internal/model" />
         <item itemvalue="Go Test.TestBlogServiceServer_UpdateBlog in github.com/JetBrainer/gRPCServer/internal/model" />
         <item itemvalue="Go Test.TestBlogServiceServer_ReadBlog in github.com/JetBrainer/gRPCServer/internal/model" />
@@ -108,22 +120,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="278" y="46" width="804" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1602084587944" />
-    <state width="1320" height="113" key="GridCell.Tab.0.bottom" timestamp="1602085222220">
+    <state width="1320" height="237" key="GridCell.Tab.0.bottom" timestamp="1602086289661">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="113" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602085222220" />
-    <state width="1320" height="113" key="GridCell.Tab.0.center" timestamp="1602085222219">
+    <state width="1320" height="237" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602086289661" />
+    <state width="1320" height="237" key="GridCell.Tab.0.center" timestamp="1602086289660">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="113" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602085222219" />
-    <state width="1320" height="113" key="GridCell.Tab.0.left" timestamp="1602085222218">
+    <state width="1320" height="237" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602086289660" />
+    <state width="1320" height="237" key="GridCell.Tab.0.left" timestamp="1602086289660">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="113" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602085222218" />
-    <state width="1320" height="113" key="GridCell.Tab.0.right" timestamp="1602085222219">
+    <state width="1320" height="237" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602086289660" />
+    <state width="1320" height="237" key="GridCell.Tab.0.right" timestamp="1602086289660">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="113" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602085222219" />
+    <state width="1320" height="237" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602086289660" />
     <state width="235" height="500" key="HiddenNamespacesPopup" timestamp="1602085246570">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

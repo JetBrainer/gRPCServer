@@ -40,7 +40,7 @@ func main(){
 	listener, serv, db := apiserver.Start(config)
 	defer func() {
 		if err := serv.Stop; err != nil{
-			log.Println("Server stop ERROR ", err)
+			log.Println("Server stop ERROR ")
 		}
 	}()
 	defer func() {
