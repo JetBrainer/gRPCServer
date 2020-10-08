@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ad8d1cb-96ff-4a98-ba3c-3afb25d0310e" name="Default Changelist" comment="" />
+    <list default="true" id="5ad8d1cb-96ff-4a98-ba3c-3afb25d0310e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/model/testingdb.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/model/testingdb.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/lib/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -120,22 +127,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="278" y="46" width="804" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1602084587944" />
-    <state width="1320" height="237" key="GridCell.Tab.0.bottom" timestamp="1602086289661">
+    <state x="466" y="143" width="428" height="484" key="FileChooserDialogImpl" timestamp="1602088651254">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="237" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602086289661" />
-    <state width="1320" height="237" key="GridCell.Tab.0.center" timestamp="1602086289660">
+    <state x="466" y="143" width="428" height="484" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602088651254" />
+    <state width="1320" height="237" key="GridCell.Tab.0.bottom" timestamp="1602088652687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="237" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602086289660" />
-    <state width="1320" height="237" key="GridCell.Tab.0.left" timestamp="1602086289660">
+    <state width="1320" height="237" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602088652687" />
+    <state width="1320" height="237" key="GridCell.Tab.0.center" timestamp="1602088652687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="237" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602086289660" />
-    <state width="1320" height="237" key="GridCell.Tab.0.right" timestamp="1602086289660">
+    <state width="1320" height="237" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602088652687" />
+    <state width="1320" height="237" key="GridCell.Tab.0.left" timestamp="1602088652686">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="237" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602086289660" />
+    <state width="1320" height="237" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602088652686" />
+    <state width="1320" height="237" key="GridCell.Tab.0.right" timestamp="1602088652687">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="237" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602088652687" />
     <state width="235" height="500" key="HiddenNamespacesPopup" timestamp="1602085246570">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

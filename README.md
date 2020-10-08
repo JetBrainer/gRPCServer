@@ -1,1 +1,1 @@
-# simple gRPCServer with Mongo database 
+# simple Blog with gRPCServer and Mongo database 
